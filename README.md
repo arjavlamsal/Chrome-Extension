@@ -1,2 +1,2 @@
-# Chrome-Extension
-USM Website Assistant AI
+# WebEase.AI
+Website Assistant AI
